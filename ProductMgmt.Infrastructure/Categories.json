@@ -1,0 +1,38 @@
+[
+  {
+    "Code": "Electronics",
+    "SubCategoryCode": "Mobile"
+  },
+  {
+    "Code": "Electronics",
+    "SubCategoryCode": "LapTop"
+  },
+  {
+    "Code": "Electronics",
+    "SubCategoryCode": "TV"
+  },
+  {
+    "Code": "Electronics",
+    "SubCategoryCode": "Table Fan"
+  },
+  {
+    "Code": "Apparel",
+    "SubCategoryCode": "Women’s Footwear"
+  },
+  {
+    "Code": "Apparel",
+    "SubCategoryCode": "Men’s Footwear"
+  },
+  {
+    "Code": "Apparel",
+    "SubCategoryCode": "Kid's cloth"
+  },
+  {
+    "Code": "Apparel",
+    "SubCategoryCode": "Women’s cloth"
+  },
+  {
+    "Code": "Apparel",
+    "SubCategoryCode": "Men’s Cloth"
+  }
+]

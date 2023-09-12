@@ -1,0 +1,170 @@
+[
+  {
+    "Code": "1Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 50,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Mobile"
+  },
+  {
+    "Code": "2OnePlus 8t",
+    "Name": "OnePlus 8t",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "OnePlus Mobile Phone",
+    "CategoryCode": "Mobile"
+  },
+  {
+    "Code": "3MI700Pro",
+    "Name": "MI 7 Pro",
+    "Quantity": 50,
+    "Price": 100,
+    "Description": "MI Mobile Phone",
+    "CategoryCode": "Mobile"
+  },
+  {
+    "Code": "4HPProBook",
+    "Name": "HP Probook",
+    "Quantity": 102,
+    "Price": 100,
+    "Description": "HP Probook Laptop",
+    "CategoryCode": "LapTop"
+  },
+  {
+    "Code": "5Acer TV55",
+    "Name": "Acer TV 55",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Acer Mobile Phone",
+    "CategoryCode": "TV"
+  },
+  {
+    "Code": "6SonyPor900",
+    "Name": "Sony 900",
+    "Quantity": 610,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "TV"
+  },
+  {
+    "Code": "7LG 700",
+    "Name": "LG 800 75",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "LG Mobile Phone",
+    "CategoryCode": "TV"
+  },
+  {
+    "Code": "8Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Mobile"
+  },
+  {
+    "Code": "9Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Table Fan"
+  },
+  {
+    "Code": "10Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Table Fan"
+  },
+  {
+    "Code": "11Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Women’s Footwear"
+  },
+  {
+    "Code": "12Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Women’s Footwear"
+  },
+  {
+    "Code": "13Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Men’s Footwear"
+  },
+  {
+    "Code": "14Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Men’s Footwear"
+  },
+  {
+    "Code": "15Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Men’s Footwear"
+  },
+  {
+    "Code": "16Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Kid's cloth"
+  },
+  {
+    "Code": "17Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Kid's cloth"
+  },
+  {
+    "Code": "18Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Women’s cloth"
+  },
+  {
+    "Code": "19Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 101,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Women’s cloth"
+  },
+  {
+    "Code": "20Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Men’s Cloth"
+  },
+  {
+    "Code": "21Samsung800",
+    "Name": "Samsung 800",
+    "Quantity": 10,
+    "Price": 100,
+    "Description": "Samsung Mobile Phone",
+    "CategoryCode": "Men’s Cloth"
+  }
+]
